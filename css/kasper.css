@@ -1053,9 +1053,9 @@ flex-basis: 25%;
 /* End Contact Section */
 /* Start Footer Section */
 .foter {
-padding: 10px;
 background-color: rgba(0, 0, 0, 0.95);
 color: white;
+padding: 10px 0;
 text-align: center;
 position: relative;
 }
